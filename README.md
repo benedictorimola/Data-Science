@@ -14,7 +14,7 @@ Atuando no momento como Analista de Dados Big Data em projeto global para empres
 Experiência com produtos ORACLE desde 1995, notadamente em análise, programação e tunning, devido as características de empresas de grande porte que lidam com grande volume de dados.
 Capacidade de aplicação de testes unitários e de integração. 
 
-**Background in:** Python, ETL, Integração.
+**Background in:** Python, ETL, integração de dados, programação e tunnig PL/SQL, scripts shell, sql loader, carga de dados.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/benedicto-rimola/)
